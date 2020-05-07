@@ -9,3 +9,5 @@ Continuing with the Containerize This! Series, we're looking at common web appli
 
 Conclusion: 
 With these basic principles you can link services together to create applications. You could easily include "composer" in the PHP container to build and run your PHP/Laravel application in a similar manner. There are a lot of benefits to modernizing your application with Docker using docker-compose and some of the latest images and features.
+
+Note : Please wait for few minutes where MySQL service to be started.
